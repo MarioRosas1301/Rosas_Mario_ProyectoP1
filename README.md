@@ -10,7 +10,7 @@
 * **Carrera:** Ingeniería / Software
 * **Proyecto:** Primer Parcial - Sitio Web Turístico
 * **Modalidad:** Individual
-
+* **Repositorio GitHub:** [MarioRosas1301/Rosas_Mario_P1](https://github.com/MarioRosas1301/Rosas_Mario_ProyectoP1)
 * **Docker Hub:** [`mirosas/proyecto-p1:v1`](https://hub.docker.com/r/mirosas/proyecto-p1)
 
 ---
